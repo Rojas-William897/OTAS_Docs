@@ -1,0 +1,73 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Welcome",
+          "docs": [
+            {
+              "id": "Avionics/index",
+              "path": "/docs/Avionics/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "General_Meetings/2026-10-18",
+              "path": "/docs/General_Meetings/2026-10-18",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "General_Meetings/2026-10-4",
+              "path": "/docs/General_Meetings/2026-10-4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "General_Meetings/2026-9-27",
+              "path": "/docs/General_Meetings/2026-9-27",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "General_Meetings/General",
+              "path": "/docs/General_Meetings/General",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Mech/index",
+              "path": "/docs/Mech/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Payload/index",
+              "path": "/docs/Payload/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Software/index",
+              "path": "/docs/Software/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Welcome",
+              "path": "/docs/Welcome",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/Welcome",
+                "label": "Welcome"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
