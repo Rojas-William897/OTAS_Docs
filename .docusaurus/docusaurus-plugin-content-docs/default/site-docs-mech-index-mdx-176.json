@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "General",
-    "permalink": "/docs/General_Meetings/General"
+    "title": "HomePage",
+    "permalink": "/docs/HomePage"
   },
   "next": {
     "title": "index",
-    "permalink": "/docs/Payload/"
+    "permalink": "/docs/Avionics/"
   }
 }

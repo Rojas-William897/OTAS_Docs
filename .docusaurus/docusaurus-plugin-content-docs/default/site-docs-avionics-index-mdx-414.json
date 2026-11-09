@@ -14,11 +14,7 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Welcome",
-    "permalink": "/docs/Welcome"
-  },
-  "next": {
-    "title": "2026-10-18",
-    "permalink": "/docs/General_Meetings/2026-10-18"
+    "title": "index",
+    "permalink": "/docs/Mech/"
   }
 }

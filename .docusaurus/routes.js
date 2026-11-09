@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', 'e21'),
     exact: true
@@ -79,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '61a'),
+    component: ComponentCreator('/docs', '044'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '1c8'),
+        component: ComponentCreator('/docs', '135'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '8c1'),
+            component: ComponentCreator('/docs', '6a4'),
             routes: [
               {
                 path: '/docs/Avionics/',
@@ -97,25 +132,27 @@ export default [
               },
               {
                 path: '/docs/General_Meetings/2026-10-18',
-                component: ComponentCreator('/docs/General_Meetings/2026-10-18', '7f0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
+                component: ComponentCreator('/docs/General_Meetings/2026-10-18', 'ee7'),
+                exact: true
               },
               {
                 path: '/docs/General_Meetings/2026-10-4',
-                component: ComponentCreator('/docs/General_Meetings/2026-10-4', '668'),
-                exact: true,
-                sidebar: "tutorialSidebar"
+                component: ComponentCreator('/docs/General_Meetings/2026-10-4', '503'),
+                exact: true
               },
               {
                 path: '/docs/General_Meetings/2026-9-27',
-                component: ComponentCreator('/docs/General_Meetings/2026-9-27', 'a60'),
-                exact: true,
-                sidebar: "tutorialSidebar"
+                component: ComponentCreator('/docs/General_Meetings/2026-9-27', '5de'),
+                exact: true
               },
               {
                 path: '/docs/General_Meetings/General',
-                component: ComponentCreator('/docs/General_Meetings/General', '93a'),
+                component: ComponentCreator('/docs/General_Meetings/General', 'a52'),
+                exact: true
+              },
+              {
+                path: '/docs/HomePage',
+                component: ComponentCreator('/docs/HomePage', 'a77'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -127,21 +164,13 @@ export default [
               },
               {
                 path: '/docs/Payload/',
-                component: ComponentCreator('/docs/Payload/', 'e76'),
-                exact: true,
-                sidebar: "tutorialSidebar"
+                component: ComponentCreator('/docs/Payload/', '1e8'),
+                exact: true
               },
               {
                 path: '/docs/Software/',
-                component: ComponentCreator('/docs/Software/', '89c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Welcome',
-                component: ComponentCreator('/docs/Welcome', '3ab'),
-                exact: true,
-                sidebar: "tutorialSidebar"
+                component: ComponentCreator('/docs/Software/', 'ed9'),
+                exact: true
               }
             ]
           }

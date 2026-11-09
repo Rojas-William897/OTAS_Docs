@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "Welcome",
+          "mainDocId": "HomePage",
           "docs": [
             {
               "id": "Avionics/index",
@@ -17,22 +17,23 @@
             },
             {
               "id": "General_Meetings/2026-10-18",
-              "path": "/docs/General_Meetings/2026-10-18",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/General_Meetings/2026-10-18"
             },
             {
               "id": "General_Meetings/2026-10-4",
-              "path": "/docs/General_Meetings/2026-10-4",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/General_Meetings/2026-10-4"
             },
             {
               "id": "General_Meetings/2026-9-27",
-              "path": "/docs/General_Meetings/2026-9-27",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/General_Meetings/2026-9-27"
             },
             {
               "id": "General_Meetings/General",
-              "path": "/docs/General_Meetings/General",
+              "path": "/docs/General_Meetings/General"
+            },
+            {
+              "id": "HomePage",
+              "path": "/docs/HomePage",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -42,26 +43,19 @@
             },
             {
               "id": "Payload/index",
-              "path": "/docs/Payload/",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/Payload/"
             },
             {
               "id": "Software/index",
-              "path": "/docs/Software/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Welcome",
-              "path": "/docs/Welcome",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/Software/"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/Welcome",
-                "label": "Welcome"
+                "path": "/docs/HomePage",
+                "label": "HomePage"
               }
             }
           }

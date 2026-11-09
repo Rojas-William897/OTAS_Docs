@@ -11,14 +11,5 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/General_Meetings/2026-9-27.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "2026-10-4",
-    "permalink": "/docs/General_Meetings/2026-10-4"
-  },
-  "next": {
-    "title": "General",
-    "permalink": "/docs/General_Meetings/General"
-  }
+  "frontMatter": {}
 }
