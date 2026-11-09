@@ -249,17 +249,17 @@
     },
     "content": "content---markdown-page-4-c-6-c89"
   },
-  "/docs-044": {
+  "/docs-5fa": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-135": {
+  "/docs-bf9": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-6a4": {
+  "/docs-45b": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Avionics/-a98": {
@@ -282,10 +282,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-general-meetings-general-7-a-0-e2d"
   },
-  "/docs/HomePage-a77": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-home-page-14-b-3c4"
-  },
   "/docs/Mech/-3c7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-mech-176-e67"
@@ -297,6 +293,10 @@
   "/docs/Software/-ed9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-software-1-dd-443"
+  },
+  "/docs/Welcome-3ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-welcome-75-b-653"
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

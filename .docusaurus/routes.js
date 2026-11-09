@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '044'),
+    component: ComponentCreator('/docs', '5fa'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '135'),
+        component: ComponentCreator('/docs', 'bf9'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '6a4'),
+            component: ComponentCreator('/docs', '45b'),
             routes: [
               {
                 path: '/docs/Avionics/',
@@ -151,12 +151,6 @@ export default [
                 exact: true
               },
               {
-                path: '/docs/HomePage',
-                component: ComponentCreator('/docs/HomePage', 'a77'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/Mech/',
                 component: ComponentCreator('/docs/Mech/', '3c7'),
                 exact: true,
@@ -171,6 +165,12 @@ export default [
                 path: '/docs/Software/',
                 component: ComponentCreator('/docs/Software/', 'ed9'),
                 exact: true
+              },
+              {
+                path: '/docs/Welcome',
+                component: ComponentCreator('/docs/Welcome', '3ab'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               }
             ]
           }

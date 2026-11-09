@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "HomePage",
+          "mainDocId": "Welcome",
           "docs": [
             {
               "id": "Avionics/index",
@@ -32,11 +32,6 @@
               "path": "/docs/General_Meetings/General"
             },
             {
-              "id": "HomePage",
-              "path": "/docs/HomePage",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Mech/index",
               "path": "/docs/Mech/",
               "sidebar": "tutorialSidebar"
@@ -48,14 +43,19 @@
             {
               "id": "Software/index",
               "path": "/docs/Software/"
+            },
+            {
+              "id": "Welcome",
+              "path": "/docs/Welcome",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/HomePage",
-                "label": "HomePage"
+                "path": "/docs/Welcome",
+                "label": "Welcome"
               }
             }
           }
