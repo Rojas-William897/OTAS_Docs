@@ -79,7 +79,7 @@ export default {
           "label": "Dashboard"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/Rojas-William897/OTAS_Docs",
           "label": "GitHub",
           "position": "right"
         }
@@ -104,6 +104,18 @@ export default {
             {
               "label": "Instagram",
               "href": "https://www.instagram.com/ontariotechdrone/"
+            },
+            {
+              "label": "OTAS Site",
+              "href": "https://ontariotechdrone.ca/"
+            },
+            {
+              "label": "LinkedIn",
+              "href": "https://www.linkedin.com/company/ontario-tech-aerial-systems"
+            },
+            {
+              "label": "Twitter",
+              "href": "https://x.com/ontechdrone"
             }
           ]
         },
