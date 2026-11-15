@@ -85,7 +85,7 @@ const config = {
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Rojas-William897/OTAS_Docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -110,6 +110,10 @@ const config = {
                 label: 'Instagram',
                 href: 'https://www.instagram.com/ontariotechdrone/',
               },
+		    {
+			    label: 'OTAS Site',
+			    href: 'https://ontariotechdrone.ca/'
+		    },
             ],
           },
           {
