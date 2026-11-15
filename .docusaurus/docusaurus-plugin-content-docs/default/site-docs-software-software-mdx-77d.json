@@ -1,0 +1,20 @@
+{
+  "id": "Software/Software",
+  "title": "Software",
+  "description": "Useful Ressources",
+  "source": "@site/docs/Software/Software.mdx",
+  "sourceDirName": "Software",
+  "slug": "/Software/",
+  "permalink": "/docs/Software/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Rojas-William897/Rojas-William897.github.io/docs/Software/Software.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Payload",
+    "permalink": "/docs/Payload/"
+  }
+}

@@ -25,9 +25,12 @@ const sidebars = {
     {
       type: 'category',
       label: 'Departments',
-      items: ['Mech/index','Avionics/index'],
-
-	    //['Avionics/index']
+      items: [
+	      'Mech/Mechanical',
+	      'Avionics/Avionics',
+	      'Payload/Payload',
+	      'Software/Software'
+      ],
     },
   ],
 

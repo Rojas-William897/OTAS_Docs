@@ -8,7 +8,7 @@
   "permalink": "/docs/Welcome",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Welcome.mdx",
+  "editUrl": "https://github.com/Rojas-William897/Rojas-William897.github.io/docs/Welcome.mdx",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "index",
-    "permalink": "/docs/Mech/"
+    "title": "Mechanical",
+    "permalink": "/docs/Mech/Mechanical"
   }
 }

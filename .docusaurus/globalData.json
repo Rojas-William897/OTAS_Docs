@@ -11,7 +11,7 @@
           "mainDocId": "Welcome",
           "docs": [
             {
-              "id": "Avionics/index",
+              "id": "Avionics/Avionics",
               "path": "/docs/Avionics/",
               "sidebar": "tutorialSidebar"
             },
@@ -24,6 +24,18 @@
               "path": "/docs/General_Meetings/2026-10-4"
             },
             {
+              "id": "General_Meetings/2026-11-01",
+              "path": "/docs/General_Meetings/2026-11-01"
+            },
+            {
+              "id": "General_Meetings/2026-11-08",
+              "path": "/docs/General_Meetings/2026-11-08"
+            },
+            {
+              "id": "General_Meetings/2026-11-15",
+              "path": "/docs/General_Meetings/2026-11-15"
+            },
+            {
               "id": "General_Meetings/2026-9-27",
               "path": "/docs/General_Meetings/2026-9-27"
             },
@@ -32,17 +44,23 @@
               "path": "/docs/General_Meetings/General"
             },
             {
-              "id": "Mech/index",
-              "path": "/docs/Mech/",
+              "id": "General_Meetings/Template",
+              "path": "/docs/General_Meetings/Template"
+            },
+            {
+              "id": "Mech/Mechanical",
+              "path": "/docs/Mech/Mechanical",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Payload/index",
-              "path": "/docs/Payload/"
+              "id": "Payload/Payload",
+              "path": "/docs/Payload/",
+              "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Software/index",
-              "path": "/docs/Software/"
+              "id": "Software/Software",
+              "path": "/docs/Software/",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "Welcome",

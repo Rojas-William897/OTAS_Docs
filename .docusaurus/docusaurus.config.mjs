@@ -6,7 +6,7 @@
 export default {
   "title": "Ontario Tech Aerial Systems",
   "tagline": "Internal Documentation",
-  "favicon": "img/favicon.ico",
+  "favicon": "OTAS.ico",
   "future": {
     "v4": {
       "removeLegacyPostBuildHeadAttribute": true,
@@ -49,22 +49,9 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/Rojas-William897/Rojas-William897.github.io"
         },
-        "blog": {
-          "showReadingTime": true,
-          "feedOptions": {
-            "type": [
-              "rss",
-              "atom"
-            ],
-            "xslt": true
-          },
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-          "onInlineTags": "warn",
-          "onInlineAuthors": "warn",
-          "onUntruncatedBlogPosts": "warn"
-        },
+        "blog": false,
         "theme": {
           "customCss": "./src/css/custom.css"
         }
@@ -82,19 +69,14 @@ export default {
       "title": "WIP Documentation Site",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/OTAS.svg"
+        "src": "img/logo.svg"
       },
       "items": [
         {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Welcome"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
+          "label": "Dashboard"
         },
         {
           "href": "https://github.com/facebook/docusaurus",
@@ -111,7 +93,7 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Dashboard",
               "to": "/docs/Welcome"
             }
           ]
@@ -120,16 +102,8 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "X",
-              "href": "https://x.com/docusaurus"
+              "label": "Instagram",
+              "href": "https://www.instagram.com/ontariotechdrone/"
             }
           ]
         },
@@ -137,12 +111,8 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/Rojas-William897/Rojas-William897.github.io"
             }
           ]
         }

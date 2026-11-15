@@ -1,0 +1,24 @@
+{
+  "id": "Payload/Payload",
+  "title": "Payload",
+  "description": "Useful Ressources",
+  "source": "@site/docs/Payload/Payload.mdx",
+  "sourceDirName": "Payload",
+  "slug": "/Payload/",
+  "permalink": "/docs/Payload/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Rojas-William897/Rojas-William897.github.io/docs/Payload/Payload.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Avionics",
+    "permalink": "/docs/Avionics/"
+  },
+  "next": {
+    "title": "Software",
+    "permalink": "/docs/Software/"
+  }
+}

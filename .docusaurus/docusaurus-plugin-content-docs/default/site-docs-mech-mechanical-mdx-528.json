@@ -1,0 +1,24 @@
+{
+  "id": "Mech/Mechanical",
+  "title": "Mechanical",
+  "description": "Useful Ressources",
+  "source": "@site/docs/Mech/Mechanical.mdx",
+  "sourceDirName": "Mech",
+  "slug": "/Mech/Mechanical",
+  "permalink": "/docs/Mech/Mechanical",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Rojas-William897/Rojas-William897.github.io/docs/Mech/Mechanical.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome",
+    "permalink": "/docs/Welcome"
+  },
+  "next": {
+    "title": "Avionics",
+    "permalink": "/docs/Avionics/"
+  }
+}

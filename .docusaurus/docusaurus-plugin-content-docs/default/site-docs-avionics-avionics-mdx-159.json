@@ -1,0 +1,24 @@
+{
+  "id": "Avionics/Avionics",
+  "title": "Avionics",
+  "description": "Useful Ressources",
+  "source": "@site/docs/Avionics/Avionics.mdx",
+  "sourceDirName": "Avionics",
+  "slug": "/Avionics/",
+  "permalink": "/docs/Avionics/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Rojas-William897/Rojas-William897.github.io/docs/Avionics/Avionics.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mechanical",
+    "permalink": "/docs/Mech/Mechanical"
+  },
+  "next": {
+    "title": "Payload",
+    "permalink": "/docs/Payload/"
+  }
+}
