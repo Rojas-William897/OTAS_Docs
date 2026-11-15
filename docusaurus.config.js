@@ -50,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Rojas-William897/Rojas-William897.github.io',
+            'https://github.com/Rojas-William897/OTAS_Docs',
         },
 
         blog: false,
