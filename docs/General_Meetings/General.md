@@ -13,3 +13,7 @@
 [2026_10_04_GM](./2026-10-4.md)
 
 [2026_10_18_GM](./2026-10-18.md)
+
+### Team Lead?
+
+Lead meets archived in OTAS/Administration/MEETINGS in the OTAS drive
