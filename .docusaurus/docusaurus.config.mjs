@@ -49,7 +49,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/Rojas-William897/OTAS_Docs"
+          "editUrl": "https://github.com/Rojas-William897/OTAS_Docs/tree/main"
         },
         "blog": false,
         "theme": {
