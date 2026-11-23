@@ -44,21 +44,26 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd5b'),
+    component: ComponentCreator('/docs', '795'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '33f'),
+        component: ComponentCreator('/docs', '811'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '0fd'),
+            component: ComponentCreator('/docs', '86a'),
             routes: [
               {
                 path: '/docs/Avionics/',
                 component: ComponentCreator('/docs/Avionics/', 'eff'),
                 exact: true,
                 sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/General_Meetings/2026-09-27',
+                component: ComponentCreator('/docs/General_Meetings/2026-09-27', '968'),
+                exact: true
               },
               {
                 path: '/docs/General_Meetings/2026-10-18',
@@ -86,8 +91,8 @@ export default [
                 exact: true
               },
               {
-                path: '/docs/General_Meetings/2026-9-27',
-                component: ComponentCreator('/docs/General_Meetings/2026-9-27', '5de'),
+                path: '/docs/General_Meetings/2026-11-22',
+                component: ComponentCreator('/docs/General_Meetings/2026-11-22', '9b2'),
                 exact: true
               },
               {

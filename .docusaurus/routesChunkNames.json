@@ -49,22 +49,26 @@
     },
     "content": "content---markdown-page-4-c-6-c89"
   },
-  "/docs-d5b": {
+  "/docs-795": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-33f": {
+  "/docs-811": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-0fd": {
+  "/docs-86a": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Avionics/-eff": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-avionics-159-457"
+  },
+  "/docs/General_Meetings/2026-09-27-968": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-general-meetings-2026-09-27-c-3-d-8c6"
   },
   "/docs/General_Meetings/2026-10-18-ee7": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -86,9 +90,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-general-meetings-2026-11-15-bf-1-329"
   },
-  "/docs/General_Meetings/2026-9-27-5de": {
+  "/docs/General_Meetings/2026-11-22-9b2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-general-meetings-2026-9-27-a-6-d-447"
+    "content": "content---docs-general-meetings-2026-11-22539-232"
   },
   "/docs/General_Meetings/General-a52": {
     "__comp": "__comp---theme-doc-item-178-a40",
